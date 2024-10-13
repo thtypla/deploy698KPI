@@ -1,4 +1,5 @@
-natplotlib
+matplotlib
+scikit.learn
 scikit-learn
 pandas
  
