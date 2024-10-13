@@ -3,3 +3,4 @@ scikit.learn
 scikit-learn
 pandas
 xgboost 
+seaborn
